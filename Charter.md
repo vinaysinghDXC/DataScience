@@ -12,7 +12,7 @@
 
 ## Personnel
 * Who are on this project:
-	* Microsoft:
+	* MicrosoftPartner:
 		* Project lead
 		* PM
 		* Data scientist(s)
